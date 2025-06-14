@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PhoneCheckApp1</string>
+    <string name="app_name">PhoneCheckApp</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_phone_num">Phone Num</string>
