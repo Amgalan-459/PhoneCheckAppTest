@@ -8,6 +8,6 @@ interface PhoneApi {
     @GET("v2/verify")
     suspend fun getPhoneInfo(
         @Query("phone") phoneNum: String,
-        @Query("key") key: String = "0894C46BC4E44998B46B75C8DDBAB363"
+        @Query("key") key: String = "Your api key"
     ): PhoneInfo
 }
